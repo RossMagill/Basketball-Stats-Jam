@@ -1,7 +1,4 @@
-# Java Jumpmen | Group80-CSC207
-
-**Our API:**
-https://rapidapi.com/api-sports/api/api-nba
+# Basketball Stats Jam 🏀
 
 ## Problem Domain: 
 NBA Stats - View and compare stats of players and teams from the NBA.
